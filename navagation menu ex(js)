@@ -1,3 +1,4 @@
+
 var MenuExample = React.createClass({
 
     getInitialState: function(){
@@ -16,7 +17,7 @@ var MenuExample = React.createClass({
 
         var self = this;
 
-        // The map method will loop over the array of menu entries,
+        // The map method loops over the array of menu entries,
         // return a new array with elements.
 
         return (
