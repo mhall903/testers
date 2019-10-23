@@ -30,10 +30,8 @@ var ServiceChooser = React.createClass({
                     </div>
 
                 </div>;
-
     }
 });
-
 
 var Service = React.createClass({
 
@@ -61,7 +59,6 @@ var Service = React.createClass({
     }
 
 });
-
 
 var services = [
     { name: 'apple', price: 2 },
